@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of LibExcel - Library Management System",
+  "description": "A comprehensive Library Management System using Excel files for data storage. Features separate panels for Students and Admins to manage books, borrowing, and returns.",
+  "requestFramePermissions": []
+}
